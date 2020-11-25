@@ -12,5 +12,5 @@ These project were done as academic project at Northeastern University (Master's
 | 3. | Neural Network | [Building a ANN from scratch which performs a Binary Coder Adder](https://nbviewer.jupyter.org/github/Chauhanshi/Predictive-Analytics/blob/master/Building%20Neural%20Network%20for%20BCD%20adder/Shivam%20Chauhan%20_%20Module%204%20Assignment_%20NN_%2002072020.pdf) |
 | 4. | Unsupervised Learning| Viacom - Student Researcher (Confidential Data)  |
 | 5. | Supervised Learning | [AQI-Prediction](https://github.com/Chauhanshi/AQI-Prediction) |
-| 6. | Model Evaluation and Validation | [Predicting Boston Housing Prices]() |
+| 6. | Model Evaluation and Validation | Predicting Boston Housing Prices |
 | 7. | Machine Learning Foundations | [Titanic Survival Exploration](https://github.com/Chauhanshi/Titanic-Data-Machine-Learning-)
