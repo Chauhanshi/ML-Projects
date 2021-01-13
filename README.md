@@ -14,3 +14,5 @@ These project were done as academic project at Northeastern University (Master's
 | 5. | Supervised Learning | [AQI-Prediction](https://github.com/Chauhanshi/AQI-Prediction) |
 | 6. | Model Evaluation and Validation | Predicting Boston Housing Prices |
 | 7. | Machine Learning Foundations | [Titanic Survival Exploration](https://github.com/Chauhanshi/Titanic-Data-Machine-Learning-)
+| 8. | Recommendation Engine |  [`Simple Recommentation Engine`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/Simple%20Recommendation%20Engine/Simple%20Recommentation%20Engine.ipynb), [`Collaborative Filtering`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/collaborative%20filtering/Collaborative%20Filtering%20.ipynb), [`Content Based Recommendations`](https://github.com/Chauhanshi/Recommendation-Engine/blob/main/Content-based%20filtering/Content%20Based%20Recommendations%20.ipynb) |
+| 9.| Chatbot | Used bag-of-word and ANN to built a chatbot for medical company | 
