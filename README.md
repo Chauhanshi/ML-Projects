@@ -7,7 +7,7 @@ These project were done as academic project at Northeastern University (Master's
 
 | Topic | Name | Project |
 |:-----:|------|---------|
-| 1.    | NLP Specialization | DS Research (BOW, TF-IDF, FinBERT) Part of code will be shared on request, please email |
+| 1.    | NLP Specialization | DS Research (BOW, TF-IDF, FinBERT) |
 | 2.    | Predictive Analytics | [Predict Image class using tree models](https://nbviewer.jupyter.org/github/Chauhanshi/Predictive-Analytics/blob/master/Tree%20models%20for%20predicting%20image%20category/Module%203%20Assignment%20_Shivam%20Chauhan_%20RD%20GB%2001312020.pdf) |
 | 3. | Neural Network | [Building a ANN from scratch which performs a Binary Coder Adder](https://nbviewer.jupyter.org/github/Chauhanshi/Predictive-Analytics/blob/master/Building%20Neural%20Network%20for%20BCD%20adder/Shivam%20Chauhan%20_%20Module%204%20Assignment_%20NN_%2002072020.pdf) |
 | 4. | Unsupervised Learning| Viacom - Student Researcher (Confidential Data)  |
